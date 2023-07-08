@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/Projeto-AluraBooks/static/js/main.46103eeb.js",
+    "static/js/787.71001599.chunk.js": "/Projeto-AluraBooks/static/js/787.71001599.chunk.js",
+    "static/media/livro.png": "/Projeto-AluraBooks/static/media/livro.08cebf2371097b2d91cd.png",
+    "static/media/sacola.svg": "/Projeto-AluraBooks/static/media/sacola.a1f2af1cb32c08ae75c7b23485161cbe.svg",
+    "static/media/perfil.svg": "/Projeto-AluraBooks/static/media/perfil.d459471fbeda60d7f2a433b0f6b660de.svg",
+    "index.html": "/Projeto-AluraBooks/index.html",
+    "static/media/logo.svg": "/Projeto-AluraBooks/static/media/logo.9c54b187c810fdc3ecca29269446898f.svg",
+    "main.46103eeb.js.map": "/Projeto-AluraBooks/static/js/main.46103eeb.js.map",
+    "787.71001599.chunk.js.map": "/Projeto-AluraBooks/static/js/787.71001599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.46103eeb.js"
+  ]
+}
